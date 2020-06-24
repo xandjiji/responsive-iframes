@@ -1,0 +1,14 @@
+.mobile {
+    width: 360px;
+    height: 740px;
+}
+
+.desktop {
+    width: 1280px;
+    height: 720px;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 100%;
+}
